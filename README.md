@@ -16,7 +16,7 @@ Supported versions
 ------------------
 
 * Developed on Redmine 3.4
-* Older version may run
+* May be able to run with older versions
 
 
 License
